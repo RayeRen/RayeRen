@@ -21,7 +21,7 @@
 1. [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, Tao Qin, Kejun Zhang, Tie-Yan Liu, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021
 
 #### 🎼 Music Generation 
-1. Automatic Song Writing with Pre-training and Alignment Constraint, Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021
+1. [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI) 2021
 1. [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, 28th ACM International Conference on Multimedia (ACM-MM) 2020 
 
 #### 💡 Other Sequence Generation Tasks 
