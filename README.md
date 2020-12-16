@@ -25,5 +25,5 @@
 1. [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, 28th ACM International Conference on Multimedia (ACM-MM) 2020 
 
 #### 💡 Other Sequence Generation Tasks 
-1. [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire, Jinglin Liu](https://dl.acm.org/doi/10.1145/3394171.3413740), **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan, 28th ACM International Conference on Multimedia (ACM-MM) 2020 
+1. [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan, 28th ACM International Conference on Multimedia (ACM-MM) 2020 
 1. [A Study of Non-autoregressive Model for Sequence Generation](https://www.aclweb.org/anthology/2020.acl-main.15.pdf), **Yi Ren**, Jinglin Liu, Xu Tan, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL) 2020
