@@ -16,7 +16,7 @@
 1. [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, Jin Xu, Hao Sun, Sheng Zhao, Tao Qin, INTERSPEECH 2020
 1. [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, Jinglin Liu, Kejun Zhang, Tao Qin, Sheng Zhao, Tie-Yan Liu, ICASSP 2021
 1. WSRGlow: A Glow-based Waveform Generative Model for Audio Super-Resolution, Kexun Zhang, **Yi Ren**, Changliang Xu and Zhou Zhao, INTERSPEECH 2021	
-1. EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model, Chenye Cui, **Yi Ren**, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao, Conference of the International Speech Communication Association (INTERSPEECH) 2021
+1. EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model, Chenye Cui, **Yi Ren**, Jinglin Liu, Feiyang Chen, Rongjie Huang, Ming Lei and Zhou Zhao, INTERSPEECH 2021
 1. FedSpeech: Federated Text-to-Speech with Continual Learning, Ziyue Jiang, **Yi Ren**, Ming Lei and Zhou Zhao, IJCAI 2021	
 
 
