@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore. 
+I work at TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore.
 
 I am now working on audio-driven talking face generation, text-to-speech and music generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com). We are hiring interns!
 
